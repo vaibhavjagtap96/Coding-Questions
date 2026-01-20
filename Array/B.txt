@@ -1,0 +1,19 @@
+1) Sort array
+2) ascending order
+3) Decending order
+4) Even number
+5) Odd number
+6) Check array is sorted or not
+7) Total elements in array or length or array
+8) Count total odd and even numbers
+9) Smallest element in array
+10) largest element in array
+11) Reverse Array 
+12) Check element exist or not
+13) Find Duplicate elements
+14) frequnecy of each element 
+15) Missing number in array
+16) Remove Duplicate element in an array
+17) Sum and Average of array
+18) find pair sum 
+19) Merge array

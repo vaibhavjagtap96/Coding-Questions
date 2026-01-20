@@ -1,0 +1,77 @@
+Here is a **clean and complete list of array coding questions** asked in software developer **technical interviews** (suitable for coding rounds).
+I’ve included **beginner → advanced** questions so you get the full range of what companies ask.
+
+---  
+
+# ✅ **Array Coding Interview Questions (Most Asked)**
+
+## 🟩 **Basic Level**
+
+1. Find the **largest** and **smallest** element in an array.
+2. Find the **second largest** number in an array.
+3. Count **total number of even & odd** numbers in an array.
+4. Count **frequency of each element**.
+5. Reverse an array **without using reverse()**.
+6. Check if an element **exists** in an array.
+7. Find the **sum** and **average** of array elements.
+8. Remove **duplicates** from an array (without Set).
+9. Sort an array **without using sort()**.
+10. Check if an array is **sorted** or not.
+
+---
+
+## 🟨 **Intermediate Level**
+
+11. Find the **missing number** in an array of 1 to N.
+12. Find the **duplicate element** in an array containing numbers 1…N.
+13. Move all **zeroes to end** of array while keeping order.
+14. Rotate array **left** / **right** by K positions. (leave)
+15. Find **pair sum** equal to a target (Two Sum).
+
+16. Find **triplet sum** equal to a target (Three Sum).
+17. Find the **maximum product** of two integers in an array.
+18. Merge **two sorted arrays** into a single sorted array.
+19. Find **intersection** of two arrays.
+20. Find **union** of two arrays (without duplicates).
+
+---
+
+## 🟧 **Advanced Level**
+
+21. Find **maximum subarray sum** → (Kadane’s Algorithm).
+22. Find **maximum product subarray**.
+23. Find the **first repeating** element in an array.
+24. Find the **first non-repeating** element.
+25. Implement **binary search** on a sorted array (without predefined functions).
+26. Find the **number of subarrays with sum = K**.
+27. Find the **longest consecutive sequence** in an array.
+28. Implement **merge sort** on an array.
+29. Implement **quick sort** on an array.
+30. Find **leaders** in an array (elements greater than all right side elements).
+
+---
+
+## 🟥 **Expert / Real Interview Questions**
+
+31. Sliding Window → Find **longest subarray with sum ≤ K**.
+32. Sliding Window → Longest substring with **K distinct characters**.
+33. Given an array of 0s & 1s, find the **max consecutive 1s**.
+34. Find **peak element** (binary search pattern).
+35. Find **minimum in a rotated sorted array**.
+36. Search an element in **rotated sorted array**.
+37. Given intervals, **merge overlapping intervals**.
+38. Find **majority element** (Moore’s voting algorithm).
+39. Rearrange array → **positive, negative alternately**.
+40. Rearrange array → **wave form** (like 1 < 3 > 2 < 4 > 3).
+
+---
+
+If you want, I can also give:
+
+✅ **Solutions in JavaScript**
+✅ **Solutions in Java**
+✅ **Level-wise practice set**
+✅ **Company-specific questions (TCS, Infosys, Capgemini, Product-based)**
+✅ **Only DSA-based tricky questions**
+
+Just tell me what format you want!
