@@ -1,0 +1,114 @@
+🔤 String Programming Questions
+
+Basics *************************************************
+
+
+Find length of a string (without using inbuilt function)
+
+Count number of characters in a string
+
+Count number of words in a string
+
+Count vowels and consonants
+
+Count digits, alphabets, and special characters
+
+Convert string to uppercase
+
+Convert string to lowercase
+
+Toggle case of characters
+
+Reverse a string
+
+Check whether string is empty or not
+
+
+
+Comparison & Checking **************************
+
+
+
+Check two strings are equal or not
+
+Check string is palindrome or not
+
+Check string contains only digits
+
+Check string contains only alphabets
+
+Check string contains only alphanumeric characters
+
+Check string contains a substring
+
+Check string starts with a given character/word
+
+Check string ends with a given character/word
+
+
+Frequency & Counting ********************************************
+
+
+Frequency of each character in a string
+
+Find duplicate characters in a string
+
+Remove duplicate characters from string
+
+Find first non-repeating character
+
+Find first repeating character
+
+
+Manipulation **************************************************
+
+
+Remove spaces from string
+
+Remove extra spaces from string
+
+Replace character with another character
+
+Replace word in a string
+
+Remove vowels from string
+
+Remove consonants from string
+
+
+Advanced / Interview Level **************************************
+
+
+Check whether two strings are anagrams
+
+Count frequency of words in a string
+
+Find longest word in a string
+
+Find smallest word in a string
+
+Reverse words in a sentence
+
+Sort characters of string alphabetically
+
+Find all permutations of a string
+
+Check string rotation
+
+Find longest common prefix
+
+
+✅ Common Interview-Focused Questions **********************************
+
+
+Palindrome
+
+Anagram
+
+Duplicate characters
+
+First non-repeating character
+
+Reverse string / reverse words
+
+Frequency of characters
